@@ -1,0 +1,11 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local datasets & large archive files
+dataset/
+PRCP-1001-RiceLeaf/
+*.zip
+
+# Ignore Python cache
+__pycache__/
+*.pyc
